@@ -1,5 +1,5 @@
 # Solutions (bomb283)
-> Please do not run these solutions directly since the bomb is different for every student. 
+> ** NOTE: ** Please do not run these solutions directly since the bomb is different for every student. 
 - Phase 1: ` I am the mayor. I can do anything I want. `
 - Phase 2: ` 32 30 26 20 12 2 `
 - Phase 3: ` 4 437 441 `
