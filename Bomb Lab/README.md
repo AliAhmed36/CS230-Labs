@@ -11,8 +11,12 @@
 For debugging and running the `bomb` file, I used these commands. They might prove very useful.
 ```
 gdb - GNU Debugger - Shows Machine state in real time
+
 i(nfo) f(unction)
+
 disas(semble) [function name]
+
 r(un) [program]
+
 b(reak) [function name]
 ```
