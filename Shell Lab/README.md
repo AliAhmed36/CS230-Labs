@@ -7,3 +7,7 @@ An implementation of a **Unix Shell**, which handles commands using the followin
 - `sigchld_handler`: Catches SIGCHILD signals. 
 - `sigint_handler`: Catches SIGINT (ctrl-c) signals. 
 - `sigtstp_handler`: Catches SIGTSTP (ctrl-z) signals. 
+
+## Files
+- `tsh.c`: The shell file itself
+- `sdriver.pl`: Used for running and debugging
