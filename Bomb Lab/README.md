@@ -6,3 +6,11 @@
 - Phase 4: ` 10 32737 `
 - Phase 5: ` 5 115 `
 - Phase 6: ` 4 6 1 `
+
+## Commands
+For debugging and running the `bomb` file, I used these commands. They might prove very useful.
+`gdb - GNU Debugger - Shows Machine state in real time
+i(nfo) f(unction)
+disas(semble) [function name]
+r(un) [program]
+b(reak) [function name]`
